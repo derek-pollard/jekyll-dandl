@@ -79,3 +79,35 @@ template: homepage
     </h2>
   </div>
 </div>
+
+<div id="updates" class="tintbg">
+	<h2>What's new with Derek and Lindsay</h2>
+
+{% for post in site.posts %}
+	{% for categoryInstance in site.pages %}
+		{% assign categorySlug = categoryInstance.name | replace: '.md', '' %}
+		{% if categorySlug == post.category-slug %}
+			{% assign categoryPage = categoryInstance %}
+			{% break %}
+		{% endif %}
+	{% endfor %}
+
+	{% capture anchorurl %}
+	{{ categoryPage.url }}{% include postidtoanchor.html path=post.id %}
+	{% endcapture %}
+	{% assign remainder = forloop.index | modulo: 3 %}	
+	
+	<div class="update{% if remainder == 0 %} last{% endif %}">
+		<a href="{{ anchorurl }}">
+			{% thumbnail images/homepage/sillytrailers.jpg 70x70 %}
+		</a>
+		<div class="details">
+		<h3><a href="{{ anchorurl }}">{{ post.title }}</a></h3>
+		<p>{{ post.date | date: "%-d %B %Y" }}</p>
+		</div>
+	</div>
+
+{% endfor %}
+
+</div>
+<div class="clearer"></div>
