@@ -16,3 +16,14 @@
 	</div>
 </div>
 <div class="clearer"></div>
+
+{% assign applied-colour = page.banner-colour %}
+
+<!-- TODO Get page parent colour if this is empty -->
+
+{% if applied-colour != "" %}
+<style type="text/css">
+h1, h2, h3, h1 a, h1 a:visited, h2 a, h2 a:visited, h3 a, h3 a:visited, #content a, .tint, a.tint:visited {color: {{ applied-colour }};}
+.tintbg {background-color: {{ applied-colour }};}
+</style>
+{% endif %}
