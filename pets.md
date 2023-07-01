@@ -42,11 +42,12 @@ category-slug: uncategorized
   </div>
   
   <div class="area">
-    <a href="/pets/degus/"><img src="/images/pets/pet_degu.jpg" alt="Degus" />
+    <a href="/pets/degus/"><img src="/images/pets/pet_degu.jpg" alt="Degus" /></a>
     
     <h2>
       <a href="/pets/rats/">Dinky Degus</a>
-    </h2></div> 
+    </h2>
+	</div> 
     
     <div class="area">
       <a href="/pets/cats/"><img src="/images/pets/cats.jpg" alt="Cats" /></a>
