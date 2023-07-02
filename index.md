@@ -93,7 +93,7 @@ template: homepage
 	{% endfor %}
 
 	{% capture anchorurl %}
-	{{ categoryPage.url }}{% include postidtoanchor.html path=post.id %}
+	{{ categoryPage.url }}#{% include postidtoanchor.html path=post.id %}
 	{% endcapture %}
 	{% assign remainder = forloop.index | modulo: 3 %}	
 	
