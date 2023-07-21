@@ -96,8 +96,9 @@ template: homepage
 	{{ categoryPage.url }}#{% include postidtoanchor.html path=post.id %}
 	{% endcapture %}
 	
-	{% assign post_image = post.content | match_regex: '<img .*?src="/([^"]+)"' %}
-	{% if post_image == nil %}
+	{% if post.thumbnail != nil %}
+		{% assign post_image = post.thumbnail %}
+	{% else %}
 		{% assign post_image = "images/DandLsquare.png" %}
 	{% endif %}
 
@@ -105,7 +106,7 @@ template: homepage
 	
 	<div class="update{% if remainder == 0 %} last{% endif %}">
 		<a href="{{ anchorurl }}">
-			{% thumbnail post_image 70x70 %}
+			<img src="{{ post_image }}" />
 		</a>
 		<div class="details">
 		<h3><a href="{{ anchorurl }}">{{ post.title }}</a></h3>
