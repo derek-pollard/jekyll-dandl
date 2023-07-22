@@ -92,9 +92,7 @@ template: homepage
 		{% endif %}
 	{% endfor %}
 
-	{% capture anchorurl %}
-	{{ categoryPage.url }}#{% include postidtoanchor.html path=post.id %}
-	{% endcapture %}
+	{% capture anchorurl %}{{ categoryPage.url }}#{% include postidtoanchor.html path=post.id %}{% endcapture %}
 	
 	{% if post.thumbnail != nil %}
 		{% assign post_image = post.thumbnail %}
@@ -106,11 +104,11 @@ template: homepage
 	
 	<div class="update{% if remainder == 0 %} last{% endif %}">
 		<a href="{{ anchorurl }}">
-			<img src="{{ post_image }}" />
+			<img src="{{ post_image }}" alt="{{ post.title }}" width="70" height="70"/>
 		</a>
 		<div class="details">
-		<h3><a href="{{ anchorurl }}">{{ post.title }}</a></h3>
-		<p>{{ post.date | date: "%-d %B %Y" }}</p>
+			<h3><a href="{{ anchorurl }}">{{ post.title }}</a></h3>
+			<p>{{ post.date | date: "%-d %B %Y" }}</p>
 		</div>
 	</div>
 
