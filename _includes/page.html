@@ -1,0 +1,28 @@
+
+<div id="page">
+	<div id="content">
+		<div class="post">	
+			<div id="title">
+			{% if page.title-image == null %}
+				{% if page.heading == null %}
+					<h1>{{ page.title }}</h1>
+				{% else %}
+					<h1>{{ page.heading }}</h1>
+				{% endif %}
+			{% else %}
+				<img src="{{ page.title-image }}" alt="{{ page.title }}" />
+			{% endif %}
+			
+			{% if page.date-range != null %}
+    			<h2>{{ page.date-range }}</h2>
+			{% endif %}
+			</div>
+
+			<div class="posttext">
+				{{ content }}
+			</div>
+
+			<div class="clearer"></div>
+		</div>
+	</div>
+</div>
