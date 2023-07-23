@@ -11,8 +11,8 @@
 
 					<div class="categorysummary">		
 		
-					{% assign title = categoryPage.summary-title | strip_html | strip_newlines %}
-					{% if title == '' %}
+					{% assign title = categoryPage.title | strip_html | strip_newlines %}
+					{% if categoryPage.summary-title != null %}
     					{% assign title = categoryPage.title | strip_html | strip_newlines %}
 					{% endif %}
 
