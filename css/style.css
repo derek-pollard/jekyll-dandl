@@ -1,0 +1,582 @@
+/* 
+Theme Name: DandL
+Theme URL: http://www.derekandlindsay.co.uk/
+Description: Derek and Lindsay
+Version: 1.0
+Author: Derek Pollard
+Author URI: http://www.derekandlindsay.co.uk
+*/
+
+/* --------------------------------------------------------------- */
+/* structure */
+/* --------------------------------------------------------------- */
+
+html
+{
+	min-height			: 100%;
+}
+
+*
+{
+	padding				: 0;
+	margin				: 0;
+}
+
+body
+{
+	background : #EFEFFF;
+	color: #000;
+	font-size: 18px;
+	margin: 0 auto 0;
+	padding: 0px;
+	font-family: "catwing", verdana, arial, helvetica, sans-serif;
+}
+
+h1, h2
+{
+	font-size: 30px;
+}
+
+h3
+{
+	font-size: 18px;
+}
+
+h1, h2, h3
+{
+	font-weight: normal;
+}
+
+a, a:visited
+{
+	text-decoration: none;
+	color: #000;
+}
+
+a:hover
+{
+	text-decoration: none;
+	color: #777;
+}
+
+p
+{
+	margin-top: 0px;
+	margin-bottom: 20px;
+	-webkit-text-size-adjust: 100%;
+}
+
+p a, p a:visited, p a:hover
+{
+	text-decoration: underline;
+}
+
+#wrapper
+{
+	border-top: 0;
+	border-bottom: 0;
+	width: 960px;
+	margin: 0 auto 0;
+	background: #FFF;
+}
+
+#content
+{
+	margin: 0px 10px 10px 10px;
+}
+
+/* --------------------------------------------------------------- */
+/* header */
+/* --------------------------------------------------------------- */
+
+#header
+{
+	border-color: #000;
+	border-width: 1px;
+	border-bottom-style: solid;
+}
+
+#header img
+{
+	position: absolute;
+	float: left;
+	margin-left: 10px;
+}
+
+#header .navigation
+{
+	padding-top: 80px;
+	padding-bottom: 5px;
+}
+
+.navigation
+{
+	padding-top: 7px;
+}
+
+/* --------------------------------------------------------------- */
+/* footer */
+/* --------------------------------------------------------------- */
+
+#footer
+{
+	padding: 10px;
+	border-color: #000;
+	border-width: 1px;
+	border-top-style: solid;
+}
+
+#footer p
+{
+	margin: 0;
+	text-align: center;
+}
+
+#footer p a
+{
+	text-decoration: none;
+}
+
+
+/* --------------------------------------------------------------- */
+/* banner */
+/* --------------------------------------------------------------- */
+
+#banner
+{
+	margin-top: 20px;
+	padding: 10px 10px 10px 10px;
+	height: 115px;
+	color: #FFF;
+}
+
+#banner h1
+{
+	font-size: 36px;
+	color: #FFF;
+}
+
+#banner p
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+/* --------------------------------------------------------------- */
+/* homepage */
+/* --------------------------------------------------------------- */
+
+#homepage h2, h2 a, h2 a:visited
+{
+	font-size: 36px;
+}
+
+/* --------------------------------------------------------------- */
+/* updates */
+/* --------------------------------------------------------------- */
+
+#updates
+{
+	margin-top: 20px;
+	padding: 10px;
+	overflow:auto;
+}
+
+#updates h2
+{
+	margin-bottom: -10px;
+}
+
+.update
+{
+	float: left;
+	margin: 20px 20px 0 0;
+	width: 300px;
+}
+
+.update.last
+{
+	margin-right: 0;
+}
+
+.update img
+{
+	float: left;
+	border: 0;
+	margin: 0;
+	padding: 0;
+	width: 70px;
+	height: 70px;
+	border-radius: 5px;
+}
+
+.update .details
+{
+	margin-left: 80px;
+}
+
+.update .details h3
+{
+	position: relative; 
+	top: -3px;
+}
+
+#updates h2, #updates h3, #updates h3 a, #updates p
+{
+	color: #FFF;
+}
+
+#updates h3 a:hover
+{
+	color: #CCC;
+}
+
+#updates p
+{
+	font-size: 12px;
+	margin-bottom: 0;
+}
+
+/* --------------------------------------------------------------- */
+/* navigation */
+/* --------------------------------------------------------------- */
+
+.navigation
+{
+	margin-right: 0;
+}
+
+.navigation ul
+{
+	float: right;
+}
+
+.navigation li
+{
+	display: block;
+	float: left;
+}
+
+.navigation a
+{
+	padding: 0 10px 0 10px;
+}
+
+/* --------------------------------------------------------------- */
+/* areas */
+/* --------------------------------------------------------------- */
+
+#areas
+{
+	margin-bottom: 10px;
+}
+
+#areas p
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+#areas.threewide .area
+{
+	width: 300px;
+}
+
+#areas.threewide .area img
+{
+	width: 300px;
+	height: 225px;
+}
+
+#areas.fourwide .area
+{
+	width: 220px;
+}
+
+#areas.fourwide .area img
+{
+	width: 220px;
+	height: 165px;
+}
+
+.area
+{
+	margin: 20px 20px 0 0;
+	float: left;
+}
+
+.area.last
+{
+	margin-right: 0;
+}
+
+.area img
+{
+	margin: 0;
+	border: 0;
+	padding: 0;
+	border-radius: 5px;
+}
+
+.area h2, .area h3
+{
+	position: relative; 
+	top: 5px;
+	text-align: center;
+}
+
+/* --------------------------------------------------------------- */
+/* parent categorypage */
+/* --------------------------------------------------------------- */
+
+#parentcategorypage #content
+{
+	margin-left: 90px;
+	margin-right: 90px;
+}
+
+#parentcategorypage .categorysummary
+{
+	margin: 20px 0 20px 0;
+}
+
+#parentcategorypage .categorysummary .details
+{
+	margin-left: 230px;
+}
+
+#parentcategorypage .categorysummary img
+{
+	float: left;
+	margin: 0;
+	width: 220px;
+	height: 165px;
+	border: 0;
+	padding: 0;
+	border-radius: 5px;
+}
+
+#parentcategorypage.right .categorysummary .details
+{
+	margin-left: 0;
+	margin-right: 230px;
+}
+
+#parentcategorypage.right .categorysummary img
+{
+	float: right;
+}
+
+#parentcategorypage .categorysummary h2, #parentcategorypage .categorysummary h3, #parentcategorypage .categorysummary p
+{
+	position: relative; 
+	top: -5px;
+}
+
+#parentcategorypage .categorysummary h3, #parentcategorypage .categorysummary p
+{
+	margin: 0 0 5px 0;
+}
+
+/* --------------------------------------------------------------- */
+/* categorypage */
+/* --------------------------------------------------------------- */
+
+#categorypage, #page
+{
+	padding-top: 20px;
+}
+
+#title
+{
+	text-align: center;
+}
+
+#title img
+{
+	margin-bottom: 10px;
+}
+
+#title h1
+{
+	font-size: 48px;
+}
+
+#title h2
+{
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+#categorypage .postdate h3
+{
+	margin-bottom: 7px;
+}
+
+/* --------------------------------------------------------------- */
+/* diary navigation */
+/* --------------------------------------------------------------- */
+
+.diary-navigation
+{
+	margin-top: 20px;
+}
+
+.diary-navigation p
+{
+	margin-bottom: 0;
+}
+
+.diary-navigation a
+{
+	text-decoration: none;
+}
+
+.diary-wrapper
+{
+	width: 33%;
+	float: left;
+}
+
+.diary-prev
+{
+	float: left;
+}
+
+.diary-main
+{
+	text-align: center;
+}
+
+.diary-next
+{
+	float: right;
+}
+
+/* --------------------------------------------------------------- */
+/* content */
+/* --------------------------------------------------------------- */
+
+.video
+{
+	margin: 0 auto 0;
+	width: 700px;
+	-webkit-mask-image: url(/wp-content/themes/dandl-1.0/resources/videorect.svg);
+}
+
+/* --------------------------------------------------------------- */
+/* contact form */
+/* --------------------------------------------------------------- */
+
+.wpcf7 input, .wpcf7 textarea
+{
+	border:1px solid #CCC;
+	border-radius: 5px;
+	margin: 5px 0 0 0;
+	padding: 5px;
+	font-family: inherit;
+	font-size: inherit;
+}
+
+.wpcf7 input[type=submit]
+{
+	padding: 10px 20px 10px 20px;
+	cursor: pointer;
+}
+
+/* --------------------------------------------------------------- */
+/* shared */
+/* --------------------------------------------------------------- */
+
+.clearer
+{
+	clear: both;
+}
+
+.aligncenter
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+}
+
+.alignleft
+{
+	float : left;
+	margin-right: 20px;
+	margin-left: -10px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+.alignright
+{
+	float : right;
+	margin-left: 20px;
+	margin-right: -10px;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+img.alignleft, img.alignright
+{
+	margin-bottom : 10px;
+}
+
+/* --------------------------------------------------------------- */
+/* image captions */
+/* --------------------------------------------------------------- */
+
+.wp-caption
+{
+	margin-bottom: 10px;
+}
+
+.wp-caption.alignleft
+{
+	margin-right: 20px;
+}
+
+.wp-caption.alignleft img, .wp-caption.aligncenter img
+{
+	border-top-right-radius: 5px;
+}
+
+.wp-caption.alignright
+{
+	margin-left: 20px;
+}
+
+.wp-caption.alignright img, .wp-caption.aligncenter img
+{
+	border-top-left-radius: 5px;
+}
+
+.wp-caption-text
+{
+	text-align: center;
+	font-size: 14px;
+	border-color: #CCC;
+	border-width: 1px;
+	border-bottom-style: solid;
+}
+
+.wp-caption.alignleft .wp-caption-text, .wp-caption.aligncenter .wp-caption-text
+{
+	border-right-style: solid;
+	border-bottom-right-radius: 5px;
+}
+
+.wp-caption.alignright .wp-caption-text, .wp-caption.aligncenter .wp-caption-text
+{
+	border-left-style: solid;
+	border-bottom-left-radius: 5px;
+}
+
+p.wp-caption-text
+{
+	margin: 0;
+	padding: 5px;
+}

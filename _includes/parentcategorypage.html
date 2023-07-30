@@ -1,0 +1,31 @@
+
+<div id="parentcategorypage" class="{{ page.parentcategorypage-alignment }}">
+
+	{%- include pagebanner.html -%}
+
+	<div id="content">
+		<div id="categorysummaries">
+
+			{% assign categoryPages = site.pages | where: "parent-slug", page.page-slug %}
+			{% assign sortedCategoryPages = categoryPages | sort: "page-order" | reverse %}
+
+			{% for categoryPage in sortedCategoryPages %}
+				<div class="categorysummary">		
+	
+				{% assign title = categoryPage.title | strip_html | strip_newlines %}
+				{% if categoryPage.summary-title != null %}
+					{% assign title = categoryPage.title | strip_html | strip_newlines %}
+				{% endif %}
+
+				<a href="{{ categoryPage.url }}"><img src="{{ categoryPage.summary-image }}" alt="{{ title }}" /></a>
+				<div class="details"><h2><a href="{{ categoryPage.url }}">{{ title }}</a></h2>
+				<h3>{{ categoryPage.date-range }}</h3>
+				<p>{{ categoryPage.summary-text }}</p></div>
+	
+				</div>
+				<div class="clearer"></div>
+			{% endfor %}
+
+		</div>
+	</div>
+</div>

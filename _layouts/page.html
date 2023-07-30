@@ -1,0 +1,9 @@
+---
+layout: base
+---
+
+{% if page.template %}
+	{% include {{ page.template }}.html %}
+{% else %}
+	{% include page.html %}
+{% endif %}

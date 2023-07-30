@@ -1,0 +1,62 @@
+{% assign diaryPages = site.pages | where: 'parent-slug', page.parent-slug | sort: 'page-order' %}
+
+{% for parentPage in site.pages %}
+	{% if page.parent-slug == parentPage.page-slug %}
+		{% assign diaryParent = parentPage %}
+		{% break %}
+	{% endif %}
+{% endfor %}
+
+{% for diaryPage in diaryPages %}
+	{% if diaryPage.page-slug == page.page-slug %}
+		{% assign diaryIndex = forloop.index0 %}
+		{% break %}
+	{% endif %}
+{% endfor %}
+
+{% if diaryIndex > 0 %}
+	{% assign prevIndex = diaryIndex | minus: 1 %}
+	{% assign prevDiaryPage = diaryPages[prevIndex] %}
+{% endif %}
+
+{% if diaryIndex < diaryPages.size | minus: 1 %}
+	{% assign nextIndex = diaryIndex | plus: 1 %}
+	{% assign nextDiaryPage = diaryPages[nextIndex] %}
+{% endif %}
+
+<div class="clearer"></div>
+<div class="diary-navigation">
+  <div class="diary-wrapper">
+    <div class="diary-prev">
+      <p>
+        {% if prevDiaryPage %}
+          <a class="tint" href="{{ prevDiaryPage.url }}"> &lt; {{ prevDiaryPage.title }}</a>
+        {% else %}
+          &nbsp;
+        {% endif %}
+      </p>
+    </div>
+  </div>
+
+  <div class="diary-wrapper">
+    <div class="diary-main">
+      <p>
+        <a class="tint" href="{{ diaryParent.url }}">{{ diaryParent.title }}</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="diary-wrapper">
+    <div class="diary-next">
+      <p>
+        {% if nextDiaryPage %}
+          <a class="tint" href="{{ nextDiaryPage.url }}">{{ nextDiaryPage.title }} &gt;</a>
+        {% else %}
+          &nbsp;
+        {% endif %}
+      </p>
+    </div>
+  </div>
+
+  <div class="clearer"></div>
+</div>

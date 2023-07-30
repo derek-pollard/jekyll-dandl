@@ -1,0 +1,58 @@
+{% include subnavigation.html %}
+
+<div id="categorypage">
+	<div id="content">
+		<div class="post">	
+			<div id="title">
+			{% if page.title-image == null %}
+				{% if page.heading == null %}
+					<h1>{{ page.title }}</h1>
+				{% else %}
+					<h1>{{ page.heading }}</h1>
+				{% endif %}
+			{% else %}
+				<img src="{{ page.title-image }}" alt="{{ page.title }}" />
+			{% endif %}
+			
+			{% if page.date-range != '' %}
+    			<h2>{{ page.date-range }}</h2>
+			{% endif %}
+			</div>
+
+			<div class="posttext">
+				{{ content }}
+			</div>
+
+			<div class="clearer"></div>
+		</div>
+	
+		{% for post in site.posts reversed %}
+			{% if post.category-slug == page.page-slug %}
+
+				{% capture anchorUrl %}{% include postidtoanchor.html path=post.id %}{% endcapture %}
+
+				<div class="post">
+					<a name="{{ anchorUrl }}"></a>
+				
+					<div class="postheader">
+						<h2>{{ post.title }}</h2>
+					</div>
+					<div class="clearer"></div>
+
+					<div class="postdate">
+						<h3>{{ post.date | date: "%-d %B %Y" }}</h3>
+					</div>	
+					<div class="clearer"></div>
+
+					<div class="posttext">
+						{{ post.content }}
+						<div class="clearer"></div>
+					</div>
+				</div>
+				<div class="clearer"></div>
+
+			{% endif %}
+		{% endfor %}
+
+	</div>
+</div>
