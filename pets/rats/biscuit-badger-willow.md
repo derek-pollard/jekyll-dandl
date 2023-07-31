@@ -27,9 +27,9 @@ category-slug: uncategorized
   &nbsp;
 </p>
 
-[<img style="float: right;" src="/wp-content/uploads/2009/01/button_husky.png" alt="Badger's Own Page - How our cute little Badger turned into a husky rat!" width="470" height="111" class="alignnone size-full wp-image-10128" />](/badger-the-husky-rat/)
+[<img style="float: right;" src="/wp-content/uploads/2009/01/button_husky.png" alt="Badger's Own Page - How our cute little Badger turned into a husky rat!" width="470" height="111" class="alignnone size-full wp-image-10128" />](/pets/rats/biscuit-badger-willow/badger-the-husky-rat/)
 
-[<img style="float: right;" src="/wp-content/uploads/2009/01/button_diary.png" alt="Biscuit, Badger & Willows Rattie Diary" width="470" height="111" class="alignnone size-full wp-image-10127" />](/biscuit-badger-willows-diary/)
+[<img style="float: right;" src="/wp-content/uploads/2009/01/button_diary.png" alt="Biscuit, Badger & Willows Rattie Diary" width="470" height="111" class="alignnone size-full wp-image-10127" />](/pets/rats/biscuit-badger-willow/biscuit-badger-willows-diary/)
 
 <p style="float: none;">
   &nbsp;
