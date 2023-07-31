@@ -1,10 +1,12 @@
 ---
-id: 334
+postid: 334
+parentid: 0
 title: Pets
 date: 2009-01-07T20:30:16+00:00
 author: Lindsay
 layout: page
 guid: http://www.derekandlindsay.co.uk/?page_id=334
+page-order: 1
 permalink: /pets/
 banner-heading:
   - Meet the family

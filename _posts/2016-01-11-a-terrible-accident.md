@@ -1,0 +1,28 @@
+---
+postid: 7199
+parentid: 0
+title: A terrible accident
+date: 2016-01-11T09:18:58+00:00
+author: Lindsay
+layout: post
+guid: http://www.derekandlindsay.co.uk/?p=7199
+page-order: 0
+permalink: /2016/01/11/a-terrible-accident/
+page-slug: a-terrible-accident
+category-slug: acorn-almond-cashew
+categories:
+  - 'Acorn, Almond &amp; Cashew'
+---
+I am very relieved to say everyone is okay now, but our sweet little gerbil, Almond, had a terrible accident on Saturday. The whole experience still makes me feel ill, so forgive me if I waffle. {% include captionedimage.html align="alignright" width="390" caption="Almond after his accident" class="size-full wp-image-7218" title="Our gerbil, Almond, with his short tail after a degloving accident" src="/wp-content/uploads/2016/01/post_3178.jpg" alt="Almond after his accident" height="386" %} 
+
+Saturday afternoon we were rounding the boys up after their run, and Derek was feeding Cashew and Almond sunflowers in their cage, while we waited for Acorn to turn up, when Derek realised Almond's tail had become degloved. Degloving is where the furry part of a gerbils tail has been stripped off, leaving the exposed bone of the tail. As if that wasn't terrible enough we realised Acorn was running around with Almonds missing tail!
+
+It was a dreadful experience, poor Almond must have been in terrible pain and shock, but we had to round Acorn up, to ensure his safety before we could even think about Almond. Once we had got Acorn back in his home he started harassing Almond, wanting to play with his injured tail and generally being a nuisance. Because of Acorn and because we needed to tend to Almond's wound we had to separate our little guy. There is a risk of infection with such a serious injury and we had to ensure Almond was kept stress free and safe from further injury. Although little confused about his missing brothers and his new home, Almond was incredibly brave about the whole ordeal, even enjoying the excessive amounts of sunflowers we gave him.
+
+After only 24 hours of separation we were able to reintroduce Almond back to his brothers. The exposed bone of his tail was completely gone and his stump looked as good as healed, because Sunday is clean out day for our gerbils, he had a nice clean cage to return to. The boys were all happy to be reunited, and played together while I cleaned their tank out. The boys are always very good about going back in once they've had their playtime, so they all went in their cage as soon as I finished putting their home back together. Derek and I stayed near the boys, just to make sure they were still happy together and no one was going to harass Almond and mess with his tail. We needn't have worried, after a bit of cardboard chomping the boys went back to bed and we didn't see or hear from them again until tea time when they all got up for a bit of bread.
+
+As for what happened, we have no idea. Derek and I have never picked our gerbils up by their tails, a common cause of degloving. We have wracked our brains about what happened that afternoon. It is complicated by the fact we had just introduced a new cage to the room, it was empty at the time and we'd been letting the gerbils play in it. On top of that I had almost sat on Cashew, he'd run underneath me as I was adjusting my position on the floor. I'd not put my weight on him, but it was a reminder of how careful you have to be when the gerbils are out. And finally we'd moved some furniture with the arrival of Max, [our Degu](/pets/degus/), a unit we keep his cage on had been pushed closer to the wall and we're not sure if Almond 's tail could have been trapped there. As Acorn had run off with Almond's tail we have no idea where his accident happened, needless to say we feel dreadful. We have gone over the room for anything we could have missed. The new cage is for Max and once he's in it, we'll block it off from the gerbils anyway, it will also replace the furniture we'd moved, so if it was either of those our gerbils will be safe in the future. {% include captionedimage.html align="aligncenter" width="780" caption="Acorn (left) and Almond reunited after the accident" class="size-full wp-image-7220" title="Our two gerbils sitting on wooden perches in their home" src="/wp-content/uploads/2016/01/post_3175.jpg" alt="Acorn (left) and Almond reunited after the accident" height="519" %} 
+
+We are still spoiling Almond and he is very happy to be back with his brothers. As degloving is like a safety feature for gerbils, if a predator grabs them by their tails in the wild they can get away. The wound will heal quickly with the gerbils often chewing off the exposed bone and getting on with life with a short tail. We are very bonded with our gerbils and they are happy healthy little creatures, which I am sure helped with Almond's quick recovery. While we did not take almond to a vet, we kept a very close eye on him, for excessive bleeding from his tail and changes in his demeanour. If your gerbil should ever suffer from a degloving and you are in anyway concerned you should contact a vet immediately. Almond's wound did not bleed and he was active and alert immediately after his accident and happy to be handled, heck we didn't even know it had happened until Derek saw his tail.
+
+It will take us a long time to get over the shock of what happened, and we will have to live with the terrible guilt of knowing we let our little guy down. Fortunately Almond does not seem bothered by his short tail or his terrible ordeal, and he is still his bright and chirpy self.
