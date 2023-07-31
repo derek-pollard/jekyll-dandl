@@ -1,17 +1,24 @@
 ---
-id: 1209
+postid: 1209
+parentid: 0
 title: Home
 date: 2009-02-08T11:10:13+00:00
 author: Derek
 layout: home
 guid: http://www.derekandlindsay.co.uk/?page_id=1209
+page-order: 0
+permalink: /
 banner-heading:
   - 'Hello &amp; Welcome'
 banner-content:
   - 'We are Derek &amp; Lindsay and we live in Ipswich, England.  Thank you for visiting us as we share some of our favourite things.  From tales about the beautiful critters who have made up our family over the years, short stories and other things we love.'
 banner-colour:
   - '#5c2c63'
+_aioseop_description:
+  - Hello, we are Derek and Lindsay and we live in Suffolk, England. Over the years we have managed to fill our home with a variety of animal friends, including bunnies, cats, gerbils, guinea pigs and far too many rats.
 template: homepage
+page-slug: home
+category-slug: uncategorized
 ---
 
 <div id="areas" class="fourwide">
