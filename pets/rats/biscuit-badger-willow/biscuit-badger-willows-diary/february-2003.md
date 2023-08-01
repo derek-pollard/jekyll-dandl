@@ -21,10 +21,11 @@ parent-slug: biscuit-badger-willows-diary
 category-slug: uncategorized
 ---
 <h1 style="text-align: center;">
-  February 2003
+  February 2003<br/>
+  A home made rattie tent
 </h1>
 
-## A home made rattie tentBiscuit's entry:
+## Biscuit's entry:
 
 Mum made us a tent, she hangs it from the top of our cage so it's all cosy and warm, I feel really safe in it. Willow and Badger insist on squeezing into it with me which makes it a bit cramped, I still like it though. We have two so mum can take one away and wash it because Badger piddles in it, stinky Badger. Mum has joined this thing where lots of rat parents get together and talk about rats. She told them about me, and now thinks I may be a bit short-sighted and that's why I'm so shy. It doesn't stop her making me come out Biscuit (top) and Badger all warm and cozy and play though.
 
@@ -32,9 +33,7 @@ Mum made us a tent, she hangs it from the top of our cage so it's all cosy and w
 
 ## Badger's entry:
 
-<img class="alignright size-full wp-image-7983" title="Willow in his home made rattie tent" src="/wp-content/uploads/2011/12/163-6363_IMG.jpg" alt="Willow in his home made rattie tent" width="390" height="263" /> 
-
-Oh wow I am a husky rat, that is why my fur changed colour as I grew up. Mum says that makes me even more special. I've been settling into my home more and running around, so I've lost some of my baby fat. I'm all lean now and with being a husky, well I'm the bestist rattie ever. I like the tents too, but my brothers pick on me if I wet the bed. I can't help it I'm just so cosy I forget to get up.
+<img class="alignright size-full wp-image-7983" title="Willow in his home made rattie tent" src="/wp-content/uploads/2011/12/163-6363_IMG.jpg" alt="Willow in his home made rattie tent" width="390" height="263" /> Oh wow I am a husky rat, that is why my fur changed colour as I grew up. Mum says that makes me even more special. I've been settling into my home more and running around, so I've lost some of my baby fat. I'm all lean now and with being a husky, well I'm the bestist rattie ever. I like the tents too, but my brothers pick on me if I wet the bed. I can't help it I'm just so cosy I forget to get up.
 
 ## Willow's entry:
 

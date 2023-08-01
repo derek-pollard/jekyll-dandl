@@ -24,9 +24,9 @@ category-slug: uncategorized
   October 2003
 </h1>
 
-##<img class="alignright size-full wp-image-1272" title="Badger sitting in the doorway fo his home" src="/wp-content/uploads/2009/02/8330_img.jpg" alt="" width="250" height="189" /> Badger's entry:
+## Badger's entry:
 
-Things just aren't the same without Willow, I really miss him. Mum likes it when I run around and do Willow type things like climbing on the furniture and running around, but it's just not as much fun as when Willow was here. I don't understand why he had to leave, we all loved him so much. Our cage seems so big with just Biscuit and me in it and no one fits in the tube that Willow used to sleep in, mum says she is going to get a bigger one so me and Biscuit can use it, it makes her sad to see Willow's tube all empty.<!--more-->
+<img class="alignright size-full wp-image-1272" title="Badger sitting in the doorway fo his home" src="/wp-content/uploads/2009/02/8330_img.jpg" alt="" width="250" height="189" /> Things just aren't the same without Willow, I really miss him. Mum likes it when I run around and do Willow type things like climbing on the furniture and running around, but it's just not as much fun as when Willow was here. I don't understand why he had to leave, we all loved him so much. Our cage seems so big with just Biscuit and me in it and no one fits in the tube that Willow used to sleep in, mum says she is going to get a bigger one so me and Biscuit can use it, it makes her sad to see Willow's tube all empty.<!--more-->
 
 ## Biscuit's entry:
 
