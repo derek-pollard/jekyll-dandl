@@ -12,6 +12,7 @@ page-slug: bijou-update
 category-slug: pompom-peanut-bella-bijou-pashmina-peppy
 categories:
   - 'PomPom, Peanut, Bella, Bijou, Pashmina &amp; Peppy'
+thumbnail: /wp-content/uploads/2022/12/post_6902_thumb.jpg
 ---
 Little Bijou has been on her own for a while now but she is doing very well. At first she was understandably confused and upset about where Peanut had gone. I made sure that I maintained her usual routine with the addition of extra checking to make sure she knew she wasn't all alone. She hid away in the downstairs igloo and began stashing all the food in there with her. Her appetite dropped so I started giving her extra treats to help keep her weight up.  {% include captionedimage.html align="aligncenter" width="780" caption="Bijou looking for her next treat" class="size-full wp-image-10489" title="Bijou looking for her next treat" src="/wp-content/uploads/2022/12/post_6902.jpg" alt="Bijou looking for her next treat" height="486" %} 
 

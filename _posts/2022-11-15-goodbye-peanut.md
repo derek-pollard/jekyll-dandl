@@ -12,6 +12,7 @@ page-slug: goodbye-peanut
 category-slug: pompom-peanut-bella-bijou-pashmina-peppy
 categories:
   - 'PomPom, Peanut, Bella, Bijou, Pashmina &amp; Peppy'
+thumbnail: /wp-content/uploads/2022/12/post_6851_thumb.jpg
 ---
 Peanut has had a growth on her side for some time. Even when it became quite large it didn’t hamper her mobility and she had been getting about easily, using both floors of their home. More recently she developed a second noticeable growth on her other side. Sadly the larger growth reached a size where it was starting to affect her balance while eating and cleaning. I could not deny that it was close to being an issue even though she still appeared happy. When checking her over I found a third lump forming which at least confirmed that I was correct not having the first one removed at her age.
 

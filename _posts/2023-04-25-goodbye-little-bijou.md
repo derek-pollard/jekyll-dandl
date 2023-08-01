@@ -12,6 +12,7 @@ page-slug: goodbye-little-bijou
 category-slug: pompom-peanut-bella-bijou-pashmina-peppy
 categories:
   - 'PomPom, Peanut, Bella, Bijou, Pashmina &amp; Peppy'
+thumbnail: /wp-content/uploads/2023/05/post_9050_thumb.jpg
 ---
 {% include captionedimage.html align="aligncenter" width="780" caption="Bijou happy and bright two weeks ago" class="size-full wp-image-10530" title="Bijou happy and bright two weeks ago" src="/wp-content/uploads/2023/05/post_9050.jpg" alt="Bijou happy and bright two weeks ago" height="426" %} 
 
