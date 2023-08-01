@@ -3,5 +3,5 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   We are Derek & Lindsay and we live in Ipswich, England. Thank you for visiting us as we share some of our favourite things. From tales about the beautiful critters who have made up our family over the years, short stories and other things we love.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://derek-pollard.github.io/jekyll-dandl" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:title/
