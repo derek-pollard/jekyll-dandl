@@ -14,7 +14,7 @@
 	
 				{% assign title = categoryPage.title | strip_html | strip_newlines %}
 				{% if categoryPage.summary-title != null %}
-					{% assign title = categoryPage.title | strip_html | strip_newlines %}
+					{% assign title = categoryPage.summary-title | strip_html | strip_newlines %}
 				{% endif %}
 
 				<a href="{{ categoryPage.url }}"><img src="{{ categoryPage.summary-image }}" alt="{{ title }}" /></a>
