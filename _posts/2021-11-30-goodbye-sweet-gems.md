@@ -13,6 +13,7 @@ category-slug: sapphire-ruby-topaz-opal
 categories:
   - 'Sapphire, Ruby, Topaz &amp; Opal'
   - Uncategorized
+thumbnail: /wp-content/uploads/2021/09/post_1313_thumb.jpg
 ---
 Sadly I have had to say goodbye to Opal & Ruby. Both girls previously already had lumps removed earlier in the year and been enjoying life since, even after losing their two sisters. Unfortunately they both had a new lump form and although this has not caused them upset they had reached the size where it was beginning to affect their mobility and would become an issue. They were both quite old and it was amazing how they had coped and adapted to getting around; remaining happy, responsive and always pleased to see me.
 

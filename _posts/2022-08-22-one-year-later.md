@@ -12,6 +12,7 @@ page-slug: one-year-later
 category-slug: rocket-pebble
 categories:
   - 'Rocket &amp; Pebble'
+thumbnail: /wp-content/uploads/2022/08/one-year-later1_thumb.jpg
 ---
 It is hard to believe it was a year ago we brought home Rocket and Pebble from the RSPCA. Every day they bring brightness and joy to my life. Over time they have gradually become more independent and sure of themselves. They no longer spend every meal time crammed into my knee which, as much as I miss it, is probably for the best.  {% include captionedimage.html align="aligncenter" width="940" caption="Rocket and Pebble all grown up" class="size-full wp-image-10466" title="Rocket and Pebble all grown up" src="/wp-content/uploads/2022/08/one-year-later1.jpg" alt="Rocket and Pebble all grown up" height="470" %} 
 

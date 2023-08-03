@@ -12,6 +12,7 @@ page-slug: goodbye-little-pip
 category-slug: pip-roo
 categories:
   - 'Pip &amp; Roo'
+thumbnail: /wp-content/uploads/2022/08/post_8818_thumb.jpg
 ---
 {% include captionedimage.html align="aligncenter" width="780" caption="Pip loved being fussed" class="size-full wp-image-10454" title="Pip did love being fussed" src="/wp-content/uploads/2022/08/post_8818.jpg" alt="Pip loved being fussed" height="462" %} 
 

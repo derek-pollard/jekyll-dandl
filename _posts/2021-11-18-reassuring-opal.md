@@ -12,6 +12,7 @@ page-slug: reassuring-opal
 category-slug: sapphire-ruby-topaz-opal
 categories:
   - 'Sapphire, Ruby, Topaz &amp; Opal'
+thumbnail: /wp-content/uploads/2022/07/reassuringopal_thumb.jpg
 ---
 Opal and Ruby have been noticeably quieter since losing Lindsay so I’ve been making extra efforts to reassure them that they are still looked after and loved. They respond well and seem to appreciate my extra company. Lindsay was always very generous with her affection to them so I give them much more fuss than I used to before. It’s quite easy to tell if they want fuss, so I let them make the choice.
 

@@ -12,6 +12,7 @@ page-slug: goodbye-brave-pompom
 category-slug: pompom-peanut-bella-bijou-pashmina-peppy
 categories:
   - 'PomPom, Peanut, Bella, Bijou, Pashmina &amp; Peppy'
+thumbnail: /wp-content/uploads/2021/11/goodbye_pompom_thumb.jpg
 ---
 Sweet little PomPom seemed to be making a great recovery. However today she lost a lot of blood again and had to be taken to the vets for the last time. It was heartbreaking to find her unwell again and have to say goodbye to another one of this beautiful group so soon. This is the first time I've had to say goodbye to anyone from our little family on my own without Lindsay.
 

@@ -12,6 +12,7 @@ page-slug: a-grand-adventure
 category-slug: rocket-pebble
 categories:
   - 'Rocket &amp; Pebble'
+thumbnail: /wp-content/uploads/2022/12/post_3299_thumb.jpg
 ---
 After a few false starts with the weather being too cold or too windy, Rocket and Pebble made it outside and managed to get to the corner of the house and look out at the garden. Meanwhile Inkie wondered what all the fuss was about.
 

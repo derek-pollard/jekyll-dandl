@@ -12,6 +12,7 @@ page-slug: rockets-lego-playtime
 category-slug: rocket-pebble
 categories:
   - 'Rocket &amp; Pebble'
+thumbnail: /wp-content/uploads/2022/12/rocket-lego-playtime2_thumb.jpg
 ---
 My Australian friend Alison sent me a lovely birthday gift of some Lego flowers. What better time to make a start than on a hot summer afternoon to stay out of the sun. It wasn't long before Rocket turned up to help as cats do like to join and provide their own unique assistance.
 

@@ -12,6 +12,7 @@ page-slug: goodbye-shy-pashmina
 category-slug: pompom-peanut-bella-bijou-pashmina-peppy
 categories:
   - 'PomPom, Peanut, Bella, Bijou, Pashmina &amp; Peppy'
+thumbnail: /wp-content/uploads/2022/08/post_2939_thumb.jpg
 ---
 In February I discovered a lump on Pashmina’s neck and started checking for it growing in size. The location and her age didn’t make removal much of an option, especially with her being such a shy and sensitive girl, but I still wanted to watch for issues. Although it seemed to appear quite quickly I was still hopeful that she might get to grow old naturally before it became a problem to her. 
 
