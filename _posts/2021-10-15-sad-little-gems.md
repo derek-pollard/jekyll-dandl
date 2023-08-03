@@ -12,6 +12,7 @@ page-slug: sad-little-gems
 category-slug: sapphire-ruby-topaz-opal
 categories:
   - 'Sapphire, Ruby, Topaz &amp; Opal'
+thumbnail: /wp-content/uploads/2022/06/post_7769_thumb.jpg
 ---
 Lindsay passed away suddenly and everyone is heartbroken. Opal and Ruby are very sad and didn't want to write anything.
 

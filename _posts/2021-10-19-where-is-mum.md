@@ -12,6 +12,7 @@ page-slug: where-is-mum
 category-slug: pip-roo
 categories:
   - 'Pip &amp; Roo'
+thumbnail: /wp-content/uploads/2022/07/post_7799_thumb.jpg
 ---
 Lindsay passed away suddenly and everyone is heartbroken.
 

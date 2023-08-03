@@ -12,6 +12,7 @@ page-slug: we-all-miss-mum
 category-slug: pompom-peanut-bella-bijou-pashmina-peppy
 categories:
   - 'PomPom, Peanut, Bella, Bijou, Pashmina &amp; Peppy'
+thumbnail: /wp-content/uploads/2022/06/post_7773_thumb.jpg
 ---
 Lindsay passed away suddenly and everyone is heartbroken.
 
