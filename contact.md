@@ -11,6 +11,5 @@ permalink: /contact/
 page-slug: contact
 category-slug: uncategorized
 ---
-# Contact
 
-<iframe height="537" title="Embedded Wufoo Form" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" sandbox="allow-popups-to-escape-sandbox allow-top-navigation allow-scripts allow-popups allow-forms allow-same-origin" src="https://envoza.wufoo.com/embed/z8rhkua1rd5gwd/"> <a href="https://envoza.wufoo.com/forms/z8rhkua1rd5gwd/">Fill out my Wufoo form!</a> </iframe>
+<iframe height="650" title="Embedded Wufoo Form" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" sandbox="allow-popups-to-escape-sandbox allow-top-navigation allow-scripts allow-popups allow-forms allow-same-origin" src="https://envoza.wufoo.com/embed/z8rhkua1rd5gwd/"> <a href="https://envoza.wufoo.com/forms/z8rhkua1rd5gwd/">Fill out my Wufoo form!</a> </iframe>
