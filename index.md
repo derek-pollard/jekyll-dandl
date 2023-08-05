@@ -79,7 +79,7 @@ category-slug: uncategorized
   </div>
   
   <div class="area last">
-    <a href="/trailers/"><img src="/images/homepage/sillytrailers.jpg" alt="Silly Trailers" /></a>
+    <a href="/trailers/"><img src="/images/homepage/sillytrailers2x.jpg" alt="Silly Trailers" /></a>
     
     <h2>
       <a href="/trailers/">Trailers</a>
