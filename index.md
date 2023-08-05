@@ -23,7 +23,7 @@ category-slug: uncategorized
 
 <div id="areas" class="fourwide">
   <div class="area">
-    <a href="/pets/bunnies/"><img src="/images/homepage/bunnies.jpg" alt="Bunnies" /></a>
+    <a href="/pets/bunnies/"><img src="/images/homepage/bunnies2x.jpg" alt="Bunnies" /></a>
     
     <h2>
       <a href="/pets/bunnies/">Bunnies</a>
@@ -31,7 +31,7 @@ category-slug: uncategorized
   </div>
   
   <div class="area">
-    <a href="/pets/rats/"><img src="/images/homepage/ratties.jpg" alt="Ratties" /></a> 
+    <a href="/pets/rats/"><img src="/images/homepage/ratties2x.jpg" alt="Ratties" /></a> 
     
     <h2>
       <a href="/pets/rats/">Ratties</a>
@@ -39,7 +39,7 @@ category-slug: uncategorized
   </div>
   
   <div class="area">
-    <a href="/pets/cats/"><img src="/images/homepage/cats.jpg" alt="Cats" /></a>
+    <a href="/pets/cats/"><img src="/images/homepage/cats2x.jpg" alt="Cats" /></a>
     
     <h2>
       <a href="/pets/cats/">Cats</a>
@@ -47,7 +47,7 @@ category-slug: uncategorized
   </div>
   
   <div class="area last">
-    <a href="/pets/degus/"><img src="/images/homepage/home_degu.jpg" alt="Degus" /></a>
+    <a href="/pets/degus/"><img src="/images/homepage/home_degu2x.jpg" alt="Degus" /></a>
     
     <h2>
       <a href="/pets/degus/">Degus</a>
@@ -55,7 +55,7 @@ category-slug: uncategorized
   </div>
   
   <div class="area">
-    <a href="/pets/gerbils/"><img src="/images/homepage/gerbils.jpg" alt="Gerbils" /></a>
+    <a href="/pets/gerbils/"><img src="/images/homepage/gerbils2x.jpg" alt="Gerbils" /></a>
     
     <h2>
       <a href="/pets/gerbils/">Gerbils</a>
@@ -63,7 +63,7 @@ category-slug: uncategorized
   </div>
   
   <div class="area">
-    <a href="/pets/guinea-pigs/"><img src="/images/homepage/guineapigs.jpg" alt="Guinea Pigs" /></a>
+    <a href="/pets/guinea-pigs/"><img src="/images/homepage/guineapigs2x.jpg" alt="Guinea Pigs" /></a>
     
     <h2>
       <a href="/pets/guinea-pigs/">Guinea Pigs</a>
@@ -71,7 +71,7 @@ category-slug: uncategorized
   </div>
   
   <div class="area">
-    <a href="/short-stories/"><img src="/images/homepage/stories.jpg" alt="Stories" /></a>
+    <a href="/short-stories/"><img src="/images/homepage/stories2x.jpg" alt="Stories" /></a>
     
     <h2>
       <a href="/short-stories/">Stories</a>
