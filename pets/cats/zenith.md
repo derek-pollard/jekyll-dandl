@@ -1,11 +1,11 @@
 ---
-postid: 10000
+postid: 20000
 parentid: 3670
 title: 'Zenith'
 date: 1991-08-05T15:02:00+00:00
 author: Derek
 layout: page
-guid: http://www.derekandlindsay.co.uk/?page_id=1000
+guid: http://www.derekandlindsay.co.uk/?page_id=20000
 page-order: 1
 permalink: /pets/cats/zenith/
 summary-text:
