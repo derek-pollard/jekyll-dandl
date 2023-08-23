@@ -20,6 +20,6 @@ category-slug: uncategorized
 
 Follow Bandit as he ventures from the safety of his home and explores the dangers of the cats room. With thrills and spills, Bandit saves the day and plays with lots of cat toys
 
-### Staring:
+### Starring:
 
 Bandit

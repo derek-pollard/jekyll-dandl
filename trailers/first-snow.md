@@ -16,11 +16,11 @@ category-slug: uncategorized
 ---
 {% include vimeovideo.html videoid="60317706" %}
 
-## A fairy tale adventure of a super cute bunny's first encounter with snow.
+## A fairy tale adventure of a super cute bunny's first encounter with snow
 
 Gasp as this brave bunny rises to the challenges and overcomes hardships as her beloved home turns white. In magical storybook format First Snow is a front row seat to one bunny's sense of adventure and bravery.
 
-### Staring:
+### Starring:
 
 Fern
 

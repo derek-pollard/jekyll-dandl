@@ -16,8 +16,8 @@ category-slug: uncategorized
 ---
 {% include vimeovideo.html videoid="48090568" %}
 
-## Join Special Agent Fern The Bunny in her fight against feline silliness.
+## Join Special Agent Fern The Bunny in her fight against feline silliness
 
-### Staring:
+### Starring:
 
 Fern, Inkie & Cubbie

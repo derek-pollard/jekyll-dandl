@@ -18,6 +18,6 @@ category-slug: uncategorized
 
 ## One little cats adventure to the top of the world
 
-### Staring:
+### Starring:
 
 Inkie

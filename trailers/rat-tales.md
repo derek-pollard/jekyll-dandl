@@ -19,6 +19,6 @@ category-slug: uncategorized
 
 ## 4 greedy little rats and their endless hunt for yummy food
 
-### Staring:
+### Starring:
 
-My chubby boys, Kapy, Powy, Mango & Chips
+My chubby boys; Kapy, Powy, Mango & Chips

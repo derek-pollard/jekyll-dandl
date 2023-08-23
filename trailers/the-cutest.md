@@ -20,6 +20,6 @@ category-slug: uncategorized
 
 Follow established cutie, Inkie and newcomer, Jessie as they prepare for the title of cutest kitty of the house, in this epic adventure. There will be meowing and purring as these fluffy little cats go head-to-head to show off their super-cute kitty powers.
 
-### Staring
+### Starring
 
 Inkie & Jessie

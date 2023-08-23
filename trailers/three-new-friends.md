@@ -20,6 +20,6 @@ category-slug: uncategorized
 
 Join three little critters as they find their way in the world, build unexpected friendships and get into all sorts of mischief.
 
-### Staring:
+### Starring:
 
 Inkie, Fern & Cubbie

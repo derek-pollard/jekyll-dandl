@@ -20,6 +20,6 @@ category-slug: uncategorized
 
 Adopted from the RSPCA a little cat finds a new home, new friends and a place to belong
 
-### Staring:
+### Starring:
 
 Inkie, Fern and some rats

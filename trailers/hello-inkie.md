@@ -16,10 +16,10 @@ category-slug: uncategorized
 ---
 {% include vimeovideo.html videoid="224469342" %}
 
-## A new pest joins the family.
+## A new pest joins the family
 
 A little cat finds a new family and makes a silly pest of herself.
 
-### Staring:
+### Starring:
 
 Inkie, Fern and Fawn

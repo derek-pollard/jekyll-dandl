@@ -16,6 +16,6 @@ category-slug: uncategorized
 
 ## One cat's wash never ends!
 
-### Staring:
+### Starring:
 
 Cubbie

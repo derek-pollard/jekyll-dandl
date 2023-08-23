@@ -18,6 +18,6 @@ category-slug: uncategorized
 
 ## Meet three crazy critters and discover their super powers!
 
-### Staring:
+### Starring:
 
 Fern, Inkie & Cubbie

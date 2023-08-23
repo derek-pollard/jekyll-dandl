@@ -20,7 +20,7 @@ category-slug: uncategorized
 
 Share in the tale of two little cats who both were needed of a home. Adopted from the RSPCA, together they found friendship, acceptance and a bossy bunny to put up with them.
 
-### Staring:
+### Starring:
 
 Inkie & Cubbie
 
