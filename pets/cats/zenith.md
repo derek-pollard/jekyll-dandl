@@ -44,6 +44,8 @@ One time Zenith graduated from worms.  Lindsay and I were watching television an
 
 <img src="/images/pets/cats/zenith/post_sc0006.jpg" alt="Zenith" title="Zenith" width="780" class="aligncenter size-full" />
 
+<img src="/images/pets/cats/zenith/post_sc0008.jpg" alt="Zenith" title="Zenith" width="780" class="aligncenter size-full" />
+
 <img src="/images/pets/cats/zenith/post_sc0007.jpg" alt="Zenith" title="Zenith" width="780" class="aligncenter size-full" />
 
 <img src="/images/pets/cats/zenith/post_IMG_0018.jpg" alt="Zenith" title="Zenith" width="780" class="aligncenter size-full" />
