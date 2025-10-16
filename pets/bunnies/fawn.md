@@ -11,7 +11,7 @@ permalink: /pets/bunnies/fawn/
 date-range:
   - 'February 2008 -  February 2011'
 summary-text:
-  - Fern was a little cross breed rabbit we found at our local pet shop’s adoption centre. It was love at first sight and though she was a small bunny she had a huge personality and a zest for life that filled the whole garden.
+  - Our sweet bunny Fawn was supposed to be a little friend for Fern, but things didn't quite work out that way. With Fern refusing to share her garden this little chap became a very happy house bunny.
 summary-image:
   - /wp-content/uploads/2009/01/fawn.jpg
 _aioseop_title:
