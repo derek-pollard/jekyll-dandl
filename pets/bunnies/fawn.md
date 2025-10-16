@@ -13,7 +13,7 @@ date-range:
 summary-text:
   - Fern was a little cross breed rabbit we found at our local pet shop’s adoption centre. It was love at first sight and though she was a small bunny she had a huge personality and a zest for life that filled the whole garden.
 summary-image:
-  - /wp-content/uploads/2009/02/fawn.jpg
+  - /wp-content/uploads/2009/01/fawn.jpg
 _aioseop_title:
   - Pets | Bunnies | Fawn
 template: categorypage
