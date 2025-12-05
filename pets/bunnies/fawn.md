@@ -21,4 +21,4 @@ page-slug: fawn
 parent-slug: bunnies
 category-slug: uncategorized
 ---
-<img class="aligncenter size-full wp-image-6604" title="Our gorgeous dwarf bunny, Fawn relaxing in the sunshine" src="/wp-content/uploads/2009/01/page_2742.jpg" alt="Our gorgeous dwarf bunny, Fawn relaxing in the sunshine" width="780" height="383" />
+<img class="aligncenter size-full wp-image-6604" title="Our gorgeous dwarf bunny, Fawn relaxing in the sunshine" src="/wp-content/uploads/2009/01/page_2742.jpg" alt="Our gorgeous dwarf bunny, Fawn relaxing in the sunshine" width="780" height="383" /> 
