@@ -75,7 +75,8 @@ p a, p a:visited, p a:hover
 {
 	border-top: 0;
 	border-bottom: 0;
-	width: 960px;
+	max-width: 960px;
+	width: 100%;
 	margin: 0 auto 0;
 	background: #FFF;
 }
@@ -579,4 +580,182 @@ p.wp-caption-text
 {
 	margin: -5px 0;
 	padding: 5px;
+}
+
+/* --------------------------------------------------------------- */
+/* global image constraint */
+/* --------------------------------------------------------------- */
+
+img
+{
+	max-width: 100%;
+	height: auto;
+}
+
+/* --------------------------------------------------------------- */
+/* mobile */
+/* --------------------------------------------------------------- */
+
+@media (max-width: 768px)
+{
+	/* header */
+
+	#header img
+	{
+		position: static;
+		display: block;
+		margin: 10px auto;
+	}
+
+	#header .navigation
+	{
+		padding-top: 5px;
+		text-align: center;
+	}
+
+	.navigation ul
+	{
+		float: none;
+	}
+
+	.navigation li
+	{
+		display: inline-block;
+		float: none;
+	}
+
+	/* banner */
+
+	#banner
+	{
+		height: auto;
+		min-height: 60px;
+	}
+
+	/* homepage areas */
+
+	#areas.threewide .area,
+	#areas.fourwide .area
+	{
+		width: 100%;
+		margin-right: 0;
+	}
+
+	#areas.threewide .area img,
+	#areas.fourwide .area img
+	{
+		width: 100%;
+		height: auto;
+	}
+
+	.area
+	{
+		float: none;
+		margin-right: 0;
+	}
+
+	/* updates strip */
+
+	.update
+	{
+		float: none;
+		width: 100%;
+		margin-right: 0;
+		display: flex;
+		align-items: flex-start;
+		gap: 10px;
+	}
+
+	.update img
+	{
+		float: none;
+		flex-shrink: 0;
+	}
+
+	.update .details
+	{
+		margin-left: 0;
+	}
+
+	/* parent category page */
+
+	#parentcategorypage #content
+	{
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	#parentcategorypage .categorysummary img
+	{
+		float: none;
+		display: block;
+		width: 100%;
+		height: auto;
+		margin-bottom: 10px;
+	}
+
+	#parentcategorypage .categorysummary .details
+	{
+		margin-left: 0;
+	}
+
+	#parentcategorypage.right .categorysummary img
+	{
+		float: none;
+	}
+
+	#parentcategorypage.right .categorysummary .details
+	{
+		margin-right: 0;
+	}
+
+	/* floated images in post content */
+
+	.alignleft, .alignright
+	{
+		float: none;
+		display: block;
+		margin: 0 auto 10px;
+	}
+
+	/* captioned images */
+
+	.wp-caption
+	{
+		max-width: 100% !important;
+	}
+
+	.wp-caption img
+	{
+		width: 100% !important;
+		height: auto !important;
+	}
+
+	/* vimeo embed */
+
+	.video
+	{
+		width: 100%;
+	}
+
+	.video iframe
+	{
+		width: 100%;
+		height: auto;
+		aspect-ratio: 16 / 9;
+	}
+
+	/* diary navigation */
+
+	.diary-wrapper
+	{
+		width: 100%;
+		float: none;
+		text-align: center;
+	}
+
+	.diary-prev, .diary-next
+	{
+		float: none;
+	}
 }
