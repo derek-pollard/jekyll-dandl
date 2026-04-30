@@ -29,4 +29,4 @@ One of Pickle's favourite beds is a plastic storage box. It is open at the front
 
 We've been looking at getting a lower cage for him. Savic do some bunny cages called Nero that come in various sizes. We have a couple for our rabbits, so we know they are nice cages. The bars are widely spaced, but that's not a problem as Pickle is a big boy. And it will only be used for older wobbly rats, so it should never be a problem. And it has the same floor space as his current home, its just the height that is reduced.
 
-The cage isn't horrendously expensive either, so I think that's what we're going to do. It also has the added bonus of leaving us with a spare rat cage incase we come accross any more rats needing a home. Which may happen sooner than we planned if Daisy's sons are still at the RSPCA.
+The cage isn't horrendously expensive either, so I think that's what we're going to do. It also has the added bonus of leaving us with a spare rat cage in case we come across any more rats needing a home. Which may happen sooner than we planned if Daisy's sons are still at the RSPCA.

@@ -15,7 +15,7 @@ category-slug: fawn
 categories:
   - Fawn
 ---
-Fawn has taken a little time to settle into his new home. He was very shy and hesitant at first and we struggled to even get him to come out of his cage an play, when he did he preferred to hang around under our bed. I’m pleased to say that he is starting to build his confidence now, and is turning into a very sweet and affectionate little rabbit.
+Fawn has taken a little time to settle into his new home. He was very shy and hesitant at first and we struggled to even get him to come out of his cage and play, when he did he preferred to hang around under our bed. I’m pleased to say that he is starting to build his confidence now, and is turning into a very sweet and affectionate little rabbit.
 
 <img class="aligncenter size-full wp-image-6610" title="Our dwarf bunny, Fawn enjoying some fuss" src="/wp-content/uploads/2008/03/post_0854.jpg" alt="Our dwarf bunny, Fawn enjoying some fuss" width="780" height="450" /> 
 

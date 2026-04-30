@@ -25,7 +25,7 @@ Just over a month after Tula died, we found a lump under Tilly's armpit. It was 
 
 So, we left it, then just over a month after finding the first lump we found a second. This one was lower down her body and on the opposite side. Derek and I are both upset, although I'm pleased to say Tilly is oblivious, happily being pandered to by us and enjoying all the naughty treats we give her.
 
-I don't know what the future will hold for Tilly, but we won't have her operated on. The first lump is getting to big too be removed now - the bigger the lump the bigger the operation and wound - and we don't know if anymore lumps are going to appear.
+I don't know what the future will hold for Tilly, but we won't have her operated on. The first lump is getting too big to be removed now - the bigger the lump the bigger the operation and wound - and we don't know if any more lumps are going to appear.
 
 We made the decision to enjoy our time with Tilly and continue to spoil her as long as we all have together. Tilly is a wonderful and brave little rat, and we feel so blessed to have her in our lives. I'm pretty sure she knows how much we love her, and despite everything that she has been through she is a wonderful and happy little rat who enjoys sharing our dinners!
 
