@@ -9,7 +9,7 @@ guid: http://www.derekandlindsay.co.uk/?page_id=3687
 page-order: 20
 permalink: /pets/cats/inkie/
 date-range:
-  - September 2010
+  - September 2010 - November 2023
 summary-text:
   - These two sweet cats were both adopted from our local RSPCA shelter. Inkie joined us first and then Cubbie a month later. They are both completely different in size, temperament and age, but they love each other dearly.
 summary-image:

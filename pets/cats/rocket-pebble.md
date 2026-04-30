@@ -13,7 +13,7 @@ summary-text:
 summary-image:
   - /wp-content/uploads/2021/08/index_rocketpebble2.jpg
 date-range:
-  - August 2021
+  - August 2021 - December 2024
 template: categorypage
 page-slug: rocket-pebble
 parent-slug: cats

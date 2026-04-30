@@ -9,7 +9,7 @@ guid: http://www.derekandlindsay.co.uk/?page_id=7854
 page-order: 30
 permalink: /pets/cats/jessie/
 date-range:
-  - June 2017
+  - June 2017 - December 2024
 summary-text:
   - "Still reeling from the loss of our beautiful, shy boy, Cubbie, we cycled up to the RSPCA homing shelter and found this little precious bundle of black fluff.  She'd been born at the shelter and was ready for a new home."
 summary-image:
